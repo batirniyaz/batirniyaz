@@ -1,5 +1,5 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/hero-image.jpg)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
   
 
