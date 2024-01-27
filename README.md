@@ -7,7 +7,7 @@
 
   
 
-I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="image/"  width="50">
+I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="hero-image.jpg"  width="50">
 
 <br  />
 
@@ -18,43 +18,26 @@ I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="image/"  wi
  📫: muratbaevbatirniyaz@gmail.com
 <br  />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dilmurod-yangiboev)](www.linkedin.com/in/dilmurod-yangiboev)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/icon_me)](https://t.me/icon_me)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dilmurod-yangiboev)](https://www.linkedin.com/in/batirniyaz/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/icon_me)](https://t.me/BatirniyazMuratbaev)
 
 
 <h3>🚀 Here are some tools that I use</h3>
 
 <p  align="left">
 
-<img  src="https://cdn.svgporn.com/logos/go.svg"  alt="go"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/docker-icon.svg"  alt="Docker"  width="25"  height="25"  />
-
-<img  src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="Kubernetes"  width="25"  height="25"  />
 
 <img  src="https://cdn.svgporn.com/logos/postgresql.svg"  alt="postgresql"  width="25"  height="25"  />
 
-<img  src="https://cdn.svgporn.com/logos/mongodb.svg"  alt="mongodb"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg"  alt="rabbit"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/kafka-icon.svg"  alt="kafka"  width="25"  height="25"  />
-
 <img  src="https://cdn.svgporn.com/logos/mysql.svg"  alt="mysql"  width="25"  height="25"  />
 
-<img  src="https://cdn.svgporn.com/logos/prometheus.svg"  alt="prometheus"  width="25"  height="25"  />
+<img  src="https://cdn.svgporn.com/logos/python.svg"  alt="python"  width="25"  height="25"  />
 
-<img  src="https://cdn.svgporn.com/logos/grafana.svg"  alt="grafana"  width="25"  height="25"  />
+<img  src="https://cdn.svgporn.com/logos/html-5.svg"  alt="html"  width="25"  height="25"  />
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  alt="redis"  width="25"  height="25"  />
+<img  src="https://cdn.svgporn.com/logos/css-3.svg"  alt="css"  width="25"  height="25"  />
 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  alt="nginx"  width="25"  height="25"  />
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="25"  height="25"  />
-
-<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"  alt="aws"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/graphql.svg"  alt="postgresql"  width="25"  height="25"  />
+<img  src="https://cdn.svgporn.com/logos/c-plusplus.svg"  alt="cpp"  width="25"  height="25"  />
 
 </p>
 
@@ -62,5 +45,5 @@ I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="image/"  wi
 
 ### Github stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Yangiboev&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs"  alt="Yangiboev Dilmurod">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yangiboev&show_icons=true&theme=tokyonight&layout=compact"  alt="Yangiboev Dilmurod">
+<img  src="https://github-readme-stats.vercel.app/api?username=batirniyaz&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs"  alt="batirniyaz">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=batirniyaz&show_icons=true&theme=tokyonight&layout=compact"  alt="batirniyaz">
