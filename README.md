@@ -7,15 +7,15 @@
 
   
 
-I am Dilmurod Yangiboev, Software Engineer with more than 4 years of experience on Golang and NodeJS primarily working on backend API services, and also interested in DevOps operations.<img  src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"  width="50">
+I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="image/"  width="50">
 
 <br  />
 
   
 <br  />
- 🏢: I’m currently working at [Momox](https://www.momox.de/)
+ 🏢: I’m currently studying at [PDP](https://university.pdp.uz/uz)
 <br  />
- 📫: dilmurod.yangiboev@gmail.com
+ 📫: muratbaevbatirniyaz@gmail.com
 <br  />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dilmurod-yangiboev)](www.linkedin.com/in/dilmurod-yangiboev)
