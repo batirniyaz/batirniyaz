@@ -1,5 +1,5 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/hero-image.jpg)
 
   
 
@@ -7,7 +7,7 @@
 
   
 
-I am Batirniyaz Muratbaev. I am a Junior Python Developer.<img  src="hero-image.jpg"  width="50">
+I am Batirniyaz Muratbaev. I am a Junior Python Developer.
 
 <br  />
 
