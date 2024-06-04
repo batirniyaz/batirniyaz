@@ -15,8 +15,11 @@
 <div align="center">
 
   🔭 I’m currently working on a **Green Project**
+  <br/>
   🌱 I’m currently learning **Docker, FasAPI, AWS**
+  <br/>
   🏢 I’m currently studying at [PDP](https://university.pdp.uz/en)
+  <br/>
   ⚡ Fun fact about me: **Haven't figured it out yet :)**
   
   </div>
