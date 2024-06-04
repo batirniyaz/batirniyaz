@@ -1,7 +1,9 @@
 
 ![](https://github.com/batirniyaz/batirniyaz/blob/main/hero-banner.png)
 
-# Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=batirniyaz.batirniyaz&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B!+;I+am+Batirniyaz+(batya))](https://git.io/typing-svg)
 
   
 
