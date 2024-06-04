@@ -11,39 +11,55 @@
 
 <br  />
 
+
+<div align="center">
+
+  🔭 I’m currently working on a **Green Project**
+  🌱 I’m currently learning **Docker, FasAPI, AWS**
+  🏢 I’m currently studying at [PDP](https://university.pdp.uz/en)
+  ⚡ Fun fact about me: **Haven't figured it out yet :)**
   
-<br  />
- 🏢: I’m currently studying at [PDP](https://university.pdp.uz/uz)
-<br  />
- 📫: muratbaevbatirniyaz@gmail.com
-<br  />
+  </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/dilmurod-yangiboev)](https://www.linkedin.com/in/batirniyaz/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/icon_me)](https://t.me/BatirniyazMuratbaev)
+<div align="center">
+
+  <a href="mailto:muratbaevbatirniyaz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/batirniyaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://t.me/BatirniyazMuratbaev/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
+</div>
+
+<hr/>
 
 
-<h3>🚀 Here are some tools that I use</h3>
+<h2 align="center">🚀 Here are some Languages-Frameworks-Tools that I use</h2>
+<br/>
 
-<p  align="left">
-
-
-<img  src="https://cdn.svgporn.com/logos/postgresql.svg"  alt="postgresql"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/mysql.svg"  alt="mysql"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/python.svg"  alt="python"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/html-5.svg"  alt="html"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/css-3.svg"  alt="css"  width="25"  height="25"  />
-
-<img  src="https://cdn.svgporn.com/logos/c-plusplus.svg"  alt="cpp"  width="25"  height="25"  />
-
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,docker,cpp,vscode,html,css,aws,flutter,discord,linkedin,mysql,powershell" />
+    <img src="https://skillicons.dev/icons?i=postgres,postman,github,fastapi,django,linux,figma,instagram,pycharm" />
+  </a>
 
   
+</div>
+<br/>
+<hr/>
 
-### Github stats
-
+<h2 align="center"> ⚡ Stats ⚡ </h2>
+<br/>
+<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=batirniyaz&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs"  alt="batirniyaz">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=batirniyaz&show_icons=true&theme=tokyonight&layout=compact"  alt="batirniyaz">
+</div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+</div>
