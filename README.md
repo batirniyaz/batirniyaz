@@ -3,11 +3,11 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=batirniyaz.batirniyaz&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+%F0%9F%91%8B!+;I+am+Batirniyaz+(batya))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B!+;I+am+Batirniyaz+(batya)+Muratbaev)](https://git.io/typing-svg)
 
-  
+<br />
 
-I am Batirniyaz Muratbaev. I am a Junior Python Developer.
+<h3 align="center">I passionate Software Developer from Nukus</h3>
 
 <br  />
 
